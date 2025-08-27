@@ -1,5 +1,6 @@
-# 🎬 Interactive IMDb Movie Dashboard with Power BI
-<img width="1569" height="893" alt="Image" src="https://github.com/user-attachments/assets/2f13f369-5e0c-48f1-b36f-269b935cc6cb" />
+# 🎬 Interactive IMDB Movie Dashboard with Power BI
+
+<img width="1562" height="894" alt="Image" src="https://github.com/user-attachments/assets/191be1e1-b9eb-4c26-83fb-d796d34482a4" />
 
 
 *COMPANY NAME* : CODTECH IT SOLUTIONS 
