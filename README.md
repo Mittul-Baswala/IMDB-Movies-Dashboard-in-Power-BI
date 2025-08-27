@@ -75,8 +75,8 @@ High IMDb ratings (7–9) are common across genres, but **blockbuster success is
 
 ## 🚀 How to Use:
 
--Download the .pbix file from this repository.
--Open the file using the Power BI Desktop application (it's free to download).
--Use the slicers on the left-hand side to filter the data by your criteria.
--Click on any data point in a chart (e.g., a genre, a director's name) to see all other visuals update in real-time.
--Hover over visuals to see detailed tooltips with specific numbers.
+- Download the .pbix file from this repository.
+- Open the file using the Power BI Desktop application (it's free to download).
+- Use the slicers on the left-hand side to filter the data by your criteria.
+- Click on any data point in a chart (e.g., a genre, a director's name) to see all other visuals update in real-time.
+- Hover over visuals to see detailed tooltips with specific numbers.
