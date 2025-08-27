@@ -72,7 +72,8 @@ High IMDb ratings (7–9) are common across genres, but **blockbuster success is
 4. **Insight Box**: Read strategic recommendations based on data
 
 
-## 🚀 How to Use
+## 🚀 How to Use:
+
 -Download the .pbix file from this repository.
 -Open the file using the Power BI Desktop application (it's free to download).
 -Use the slicers on the left-hand side to filter the data by your criteria.
