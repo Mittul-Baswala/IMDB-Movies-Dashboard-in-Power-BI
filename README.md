@@ -3,16 +3,6 @@
 <img width="1562" height="894" alt="Image" src="https://github.com/user-attachments/assets/191be1e1-b9eb-4c26-83fb-d796d34482a4" />
 
 
-*COMPANY NAME* : CODTECH IT SOLUTIONS 
-
-*NAME*: MITTUL BASWALA
-
-*INTERN ID*: CT06DZ2256
-
-*DOMAIN*: DATA ANALYTICS
-
-*MENTOR*: NEELA SANTOSH
-
 
 ## 📌 Project Overview
 
